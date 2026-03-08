@@ -23,3 +23,5 @@ console.log(0 == false); // true both convert to 0
 
 console.log("0" === false); // false different types
 console.log("0" == false); // true both convert to 0
+
+//console.log("I tried manual way to push my code to github on 08-03-2023, now I will go with AI")
