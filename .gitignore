@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log*
+.yarn-integrity
+dist/
+.env
+
+# Playwright
+/test-results/
+.playwright/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Others
+coverage/
+reports/

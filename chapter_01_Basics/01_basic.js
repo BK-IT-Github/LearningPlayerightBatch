@@ -1,0 +1,1 @@
+console.log("Hello TheTestingAcademy");//print the statement
